@@ -1,0 +1,12 @@
+<!-- markup (zero or more items) goes here -->
+<!-- reactivity can be enforced via assigning the variable to itself -->
+<!-- any time any variable value is modified within the
+	 $ operator thhe variable the $ is being applied to automatically updates
+	the $ operator converts variable in to parametized values that depend on the 
+	variables within there statements-->
+<!-- componentes let you pass values into component, 
+	deaults of componetns will stay if not defined66666 -->
+<!-- ...val can be used to sppuly variables to components using objects -->
+<!-- componetns can listen to nested components using eventdipatching -->
+<!-- the bind directive makes a two way binding between values, so changes to one
+affect achother not just reactive deoencdancy -->
