@@ -17,10 +17,9 @@ import Letter from "./Letter.svelte";
 
 <style>
 	ul {
-        list-style-type: none;
-        overflow: hidden;
-
         display: flex;
-		justify-content: center
+		justify-content: center;
+
+        /*margin-bottom: 4rem;*/
     }
 </style>
